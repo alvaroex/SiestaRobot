@@ -20,12 +20,12 @@ pm_start_text: |
   ✪ Hit /help to see my available commands.
    
 group_start_text: |
-  *👋🏻 Hi Darling, I'm Siesta Robot!*
+  *👋🏻 Hello brow, I'm Varo XRobot*
   
   *Started active since :* `{}`
 
 pm_about_text: |
-  ✺ Hey Darling I'm *Siesta Robot*, a powerful group management bot built to help you manage your group easily. ✺
+  ✺ Hey Darling I'm *Varo XRobot*, a powerful group management bot built to help you manage your group easily. ✺
 
   ✪ I can restrict users.
   ✪ I can greet users with customizable welcome messages and even set a group's rules.
