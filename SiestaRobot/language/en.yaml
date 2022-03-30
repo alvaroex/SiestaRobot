@@ -9,7 +9,7 @@ set_chat_lang: "Great, using {} Language it is from now on!"
 
 # PM Text
 pm_start_text: |
-  *Hello brow, {} 
+  *Hello brow, {} *
   ✪ I'm an group manager + play music in a group + stream videos [✨](https://telegra.ph/file/1f0fbc1ae4d4ee6beb54c.jpg)
   ━━━━━━━━━━━━━━━━━━━━━━━━━━
   × *Server Uptime :* `{}`
