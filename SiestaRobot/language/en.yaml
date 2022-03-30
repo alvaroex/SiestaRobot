@@ -9,13 +9,13 @@ set_chat_lang: "Great, using {} Language it is from now on!"
 
 # PM Text
 pm_start_text: |
-  *Hey Darling, {} ❤️*
-  ✪ I'm an anime-theme management robot [✨](https://telegra.ph/file/6d3e3ef24f64fb6e35df0.jpg)
+  *Hello brow, {} 
+  ✪ I'm an group manager + play music in a group + stream videos [✨](https://telegra.ph/file/1f0fbc1ae4d4ee6beb54c.jpg)
 
-  ┏━━━━━━━━•❃°•°❀°•°❃•━━━━━━━━┓
+  ━━━━━━━━━━━━━━━━━━━━━
   × *Server Uptime :* `{}`
   × `{}` *users, across* `{}` *chats.*
-  ┗━━━━━━━━•❃°•°❀°•°❃•━━━━━━━━┛
+  ━━━━━━━━━━━━━━━━━━━━━
 
   ✪ Hit /help to see my available commands.
    
