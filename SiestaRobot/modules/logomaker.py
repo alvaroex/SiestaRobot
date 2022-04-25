@@ -197,7 +197,7 @@ async def logo_(event):
         await tbot.send_file(
             event.chat_id,
             file=flnme,
-            caption="made by [alvaroxrobot](https://t.me/alvarooxrobot)",
+            caption="made by [varoxrobot](https://t.me/varooxrobot)",
             force_document=False,
         )
         os.remove(flnme)
