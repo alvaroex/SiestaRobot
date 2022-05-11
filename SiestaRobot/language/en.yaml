@@ -9,17 +9,12 @@ set_chat_lang: "Great, using {} Language it is from now on!"
 
 # PM Text
 pm_start_text: |
-  *Hello brow, {} *
-  ✪ I'm an group manager + play music in a group + stream videos [✨](https://telegra.ph/file/d461dffea4ea15863bbd9.jpg)
-  ━━━━━━━━━━━━━━━━━━━━━━━━━━
-  × *Server Uptime :* `{}`
-  × `{}` *users, across* `{}` *chats.*
-  ━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-  ✪ Hit /help to see my available commands.
+  *ᴇʏʏᴏ, ɪ'ᴍ ᴀʙᴏᴜᴛ ʏᴏᴜ‽*
+  • `{}` *ᴜsᴇʀs, ᴀᴄʀᴏss* `{}` *ᴄʜᴀᴛs.*
+  ʜɪᴛ /ʜᴇʟᴘ ᴛᴏ sᴇᴇ ᴍʏ ᴀᴠᴀɪʟᴀʙʟᴇ ᴄᴏᴍᴍᴀɴᴅs.
    
 group_start_text: |
-  *👋🏻 Hello brow, I'm Varo XRobot*
+  *ᴇʏʏᴏ, ɪ'ᴍ ᴀʙᴏᴜᴛ ʏᴏᴜ*
   
   *Started active since :* `{}`
 
@@ -81,15 +76,15 @@ group_settings_text: "Click here to get this chat's settings, as well as yours."
 group_settings_button: "Settings"
 
 # PM Button
-add_bot_to_group_button: "• Add Me To Your Group •"
-support_chat_link_button: "Support"
-updates_channel_link_button: "Update"
-notes_button: "Notes"
-source_button: "Source Code"
-help_button: "Get Help"
-back_button: "Go back"
-about_button: "Owner🔥"
-inline_button: "Support​​"
+add_bot_to_group_button: "✚ ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ✚"
+support_chat_link_button: "sᴜᴘᴘᴏʀᴛ"
+updates_channel_link_button: "ᴜᴘᴅᴀᴛᴇ"
+notes_button: "ɴᴏᴛᴇs"
+source_button: "sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ"
+help_button: "ɢᴇᴛ ʜᴇʟᴘ"
+back_button: "ɢᴏ ʙᴀᴄᴋ"
+about_button: "ᴏᴡɴᴇʀ!"
+inline_button: "sᴜᴘᴘᴏʀᴛ"
 
 # MODULES
 admin_help: |
